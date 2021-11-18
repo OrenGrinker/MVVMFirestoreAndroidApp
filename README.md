@@ -1,6 +1,6 @@
-# Firebase Firestore MVVM application with Timber and BaseApplication in java
+# Firebase Firestore MVVM application with Timber in java
 
-A simple Android app written in java to illustrate and describe the use of Design Pattern MVVM in retrieving information from a document in Firestore combined with logs used by Timber Library and BaseApplication.
+A simple Android app written in java to illustrate and describe the use of Design Pattern MVVM in retrieving information from a document in Firestore combined with logs used by Timber Library.
 
 ## Building the Project
 
@@ -12,6 +12,16 @@ git clone https://github.com/OrenGrinker/MVVMFirestoreAndroidApp.git
 Download your "google-services.json" file from your Firebase project settings, if you don't know how you can learn here:
 ```bash
 https://alphatech.technology/Howto-Entry-srk/Google-Services-Json-bek/
+```
+
+## More information
+What is timber?
+```bash
+https://github.com/JakeWharton/timber
+```
+What is Firebase Firestore?
+```bash
+https://firebase.google.com/docs/firestore
 ```
 
 

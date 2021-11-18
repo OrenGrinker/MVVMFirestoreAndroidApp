@@ -24,7 +24,7 @@ What is Firebase Firestore?
 https://firebase.google.com/docs/firestore
 ```
 
-![Screenshot](Screen Shot 2021-11-18 at 17.32.50.png)
+![Screenshot](https://github.com/OrenGrinker/MVVMFirestoreAndroidApp/blob/master/Screen%20Shot%202021-11-18%20at%2017.32.50.png?raw=true)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

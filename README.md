@@ -23,7 +23,7 @@ What is Firebase Firestore?
 ```bash
 https://firebase.google.com/docs/firestore
 ```
-
+Firebase Firestore sample collection structure:
 ![Screenshot](https://github.com/OrenGrinker/MVVMFirestoreAndroidApp/blob/master/Screen%20Shot%202021-11-18%20at%2017.32.50.png?raw=true)
 
 ## Contributing

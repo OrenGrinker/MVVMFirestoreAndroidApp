@@ -24,6 +24,7 @@ What is Firebase Firestore?
 https://firebase.google.com/docs/firestore
 ```
 
+![Screenshot](Screen Shot 2021-11-18 at 17.32.50.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
